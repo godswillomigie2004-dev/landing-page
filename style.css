@@ -109,6 +109,30 @@ h3{
     align-items: center;
 }
 
+.quote{
+    background-color: #e5e7eb;
+    padding: 80px 300px;
+    text-align: start;
+    margin: 0;
+}
+
+.quote q{
+    font-style: italic;
+    font-size: 36px;
+    color: #374151;
+    line-height: 1.5;
+}
+
+.tom{
+    margin-top: 20px;
+    text-align: right;
+    font-weight: 300;
+    color: #1F2937;
+}
+
+
+
+
 
  
 

@@ -37,6 +37,7 @@ h1{
     color: #F9FAF8;
     margin: 1px;
 } 
+
 .image-holder,.special{
     font-size: 18px;
     color: #d1d5db;
@@ -52,7 +53,7 @@ button {
     padding: 6px 20px;
     border-radius: 8px;
     border: 0;
-    margin: 1px;
+  
 }
 .image-holder{
     background-color: rgb(123, 125, 134);
@@ -130,11 +131,44 @@ h3{
     color: #1F2937;
 }
 
+.btn {
+   
+    border: 1px solid white;
+    
+  
+  
+   
+   
+}
 
+.cta{
+    display: flex;
+    background-color:#3882F6;
+    justify-content: space-around;
+    margin: 80px 300px;
+    align-items: center;
+    padding: 20px;
+    border-radius: 8px;
+}
 
+.words{
+    color: #F9FAF8;
+}
+.pot{
+    font-weight: 900;
+    font-size: 20px;
+}
 
-
- 
+.riot{
+    color: #d1d5db;
+    font-size:18px ;
+}
+footer{
+    text-align: center;
+    background-color: #1F2937;
+    color: white;
+    padding: 20px;
+}
 
 
 
